@@ -89,3 +89,7 @@ LLM-as-judge сам по себе имеет bias и шум: это инстру
 ## Лицензия
 
 [MIT](LICENSE)
+
+---
+
+Автор: [Федор Маковский](https://fedor.alqira.ru), ИИ-разработчик. Услуги и проекты с цифрами качества: [fedor.alqira.ru](https://fedor.alqira.ru).

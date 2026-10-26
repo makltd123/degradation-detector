@@ -91,3 +91,7 @@ LLM-as-judge has its own bias and noise: this is an **early warning** tool, not 
 ## License
 
 [MIT](LICENSE)
+
+---
+
+Author: [Fedor Makovskiy](https://fedor.alqira.ru), AI developer. Services and projects with quality metrics: [fedor.alqira.ru](https://fedor.alqira.ru).
